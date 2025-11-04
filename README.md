@@ -1,6 +1,8 @@
 # Tech-Nest 🚀
 
-A modern event management platform built with Next.js 14, featuring real-time analytics with PostHog and image management with Cloudinary. This project was created as a learning journey to explore Next.js App Router, Server Actions, and modern full-stack development practices.
+A modern event management platform built with Next.js 16, featuring real-time analytics with PostHog and image management with Cloudinary. This project was created as a learning journey to explore Next.js App Router, Server Actions, and modern full-stack development practices.
+
+Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 
 ## 🌟 Features
 
@@ -13,7 +15,7 @@ A modern event management platform built with Next.js 14, featuring real-time an
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 14, TypeScript, TailwindCSS
+- **Frontend**: Next.js 16, TypeScript, TailwindCSS
 - **Backend**: Next.js API Routes, MongoDB with Mongoose
 - **Analytics**: PostHog
 - **Image Storage**: Cloudinary
@@ -50,7 +52,6 @@ A modern event management platform built with Next.js 14, featuring real-time an
    npm run dev
    ```
 
-Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 
 ## 📝 Learning Journey & Challenges
 
@@ -66,7 +67,7 @@ Coming from pages router, adapting to the App Router was initially challenging. 
 Implementing PostHog for analytics was interesting, especially:
 - Setting up proper event tracking
 - Handling analytics in Server Components
-- Managing PostHog's initialization in Next.js 14
+- Managing PostHog's initialization in Next.js 16
 - Creating custom events for better insights
 
 ### Image Management with Cloudinary
