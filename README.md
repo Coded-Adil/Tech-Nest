@@ -1,10 +1,10 @@
-# Tech-Nest 🚀
+# Tech-Nest 
 
 A modern event management platform built with Next.js 16, featuring real-time analytics with PostHog and image management with Cloudinary. This project was created as a learning journey to explore Next.js App Router, Server Actions, and modern full-stack development practices.
 
 Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 
-## 🌟 Features
+## Features
 
 - **Event Management**: Create, view, and manage tech events
 - **Real-time Analytics**: Track user interactions using PostHog
@@ -13,7 +13,7 @@ Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 - **Type Safety**: End-to-end TypeScript implementation
 - **MongoDB Integration**: Robust data persistence with Mongoose
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 16, TypeScript, TailwindCSS
 - **Backend**: Next.js API Routes, MongoDB with Mongoose
@@ -53,7 +53,7 @@ Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
    ```
 
 
-## 📝 Learning Journey & Challenges
+## Learning Journey & Challenges
 
 ### Next.js App Router
 Coming from pages router, adapting to the App Router was initially challenging. The new mental model of Server Components, Client Components, and how they interact took some time to grasp. Key learnings:
@@ -91,7 +91,7 @@ Maintaining type safety throughout the application was crucial:
 - Ensuring type safety in server actions
 - Handling unknown types from external services
 
-## 🌟 Key Learnings
+## Key Learnings
 
 1. **Server Components**: Understanding the power and limitations of React Server Components
 2. **Performance Optimization**: Leveraging Next.js built-in optimizations
@@ -107,21 +107,21 @@ Maintaining type safety throughout the application was crucial:
 - [ ] Improve image optimization
 - [ ] Add event categories and search functionality
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Next.js team for the amazing framework
 - PostHog for the powerful analytics platform
 - Cloudinary for the robust image management system
 - MongoDB for the flexible database solution
 
-## 📞 Contact
+## Contact
 
 Feel free to reach out if you have any questions or suggestions!
