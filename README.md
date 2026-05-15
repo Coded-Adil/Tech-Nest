@@ -23,7 +23,7 @@ Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 - **State Management**: React Hooks
 - **Deployment**: Vercel
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -99,7 +99,7 @@ Maintaining type safety throughout the application was crucial:
 4. **Error Handling**: Implementing robust error handling across the stack
 5. **API Design**: Creating clean, RESTful APIs with Next.js
 
-## 📈 Future Improvements
+## Future Improvements
 
 - [ ] Add authentication system
 - [ ] Implement real-time updates using WebSockets
