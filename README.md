@@ -2,7 +2,7 @@
 
 A modern event management platform built with Next.js 16, featuring real-time analytics with PostHog and image management with Cloudinary. This project was created as a learning journey to explore Next.js App Router, Server Actions, and modern full-stack development practices.
 
-Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
+## Visit [TechNest](https://tech-nest-eta.vercel.app) to see the application.
 
 ## Features
 
